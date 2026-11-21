@@ -1,0 +1,6 @@
+{
+  "name": "RESUMATE AI",
+  "description": "AI-powered Resume Analyzer and ATS Score Checker built with Streamlit, Python, and Google Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
